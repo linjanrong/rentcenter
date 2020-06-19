@@ -15,6 +15,7 @@
     <packaging>pom</packaging>
 
     <!-- 自動添加 加入子模塊，若移除子模組，要手動來刪除-->
+    <!-- 自動添加 加入子模塊，若移除子模組，要手動來刪除-->
     <modules>
         <module>common_util</module>
         <module>service_base</module>
